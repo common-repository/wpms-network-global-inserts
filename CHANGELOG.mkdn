@@ -1,0 +1,52 @@
+WPMS Network Global Inserts
+===============
+
+Visit https://github.com/rubenstorm/wpms-network-global-inserts for full changelogs and git access.
+
+Visit http://apidocs.ruben-storm.eu/wpms-network-global-inserts/ for Documentation.
+
+
+Visit http://ruben-storm.de/projekte/wpms-network-global-inserts/ for the Project page.
+=======
+
+
+
+Follow http://twitter.com/rubenstorm 
+
+Maintainers:
+------------
+* Ruben Storm
+
+
+Translators:
+------------
+* Ruben Storm (german)
+
+
+CHANGELOG
+---------
+
+### 0.1.0
+* Textdomain for language
+* German Translation
+
+### 0.0.4
+* New Admin design
+* Alignment
+ 
+
+
+### 0.0.3
+* Issus Fixed 
+* Pages Fields added
+### Issus beeing fixed for Version 0.0.3
+* header content is being shown in footer
+* Including a js file that does not exist
+
+### 0.0.2
+* Better Documentation
+* Code cleanup
+* Added this CHANGELOG file
+
+### 0.0.1
+* first release
